@@ -2,6 +2,10 @@
 using namespace std;
 
 int main() {
+    string userName;
+    int firstNum = 1;
+    int secondNum = 1;
+
     cout << " __  __       _   _       _____      _ " << endl;
     cout << "|  \\/  | __ _| |_| |__   |_   _|   _| |_ ___  _ __ " << endl;
     cout << "| |\\/| |/ _` | __| '_ \\    | || | | | __/ _ \\| '__|"<< endl;
@@ -12,6 +16,17 @@ int main() {
     cout << "Welcome to the Silly Simply Math Tutor V1!" << endl ;
     cout << "_________________________________________________" << endl;
 
+    cout << "Please under your name: ";
+    cin >> userName;
+    cout << "Welcome " << userName << "!" << endl;
+
+    cout << "You can do Math Sum up Here!" << endl;
+    cout << "Please enter your first number" << endl;
+    cin >> firstNum;
+    cout << "Please enter your second number" << endl;
+    cin >> secondNum;
+    cout << firstNum << " + " << secondNum << " = " << firstNum + secondNum << endl;
+    
     cout << R"(
  ____ _                 _
 |_  _| |__   __ _ _ __ | | __  _   _  ___  _   _
