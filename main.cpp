@@ -36,7 +36,7 @@ int main() {
     cout << "Here we go!" << endl;
     cout << firstNum << " + " << secondNum << " = " << "?" << endl;
     cout << "Please type the answer below!" << endl;
-    cin >> userAns;
+    cin >> answer;
 
     cout << "We will tell you the correct answer on our MathTutor Vers. II" << endl;
     cout << "Stay Turn!" << endl;
