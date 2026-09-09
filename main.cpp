@@ -1,3 +1,9 @@
+/**************************************************
+Program............:MathTutorV1
+Programmer........ : Md Mahbubur Rahman Siam, Saw Barnabas Thadoe Htoo
+Date................: 2026.09.09
+GitHub Repo.............: https://github.com/NETtlSimrox/MathTutorV1.git
+Description.............. An easy math tutor for young children. In version 1, It displays*/
 #include <iostream>
 using namespace std;
 
