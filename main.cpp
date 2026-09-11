@@ -1,9 +1,13 @@
-/**************************************************
+/*************************************************************************************
 Program............:MathTutorV1
 Programmer........ : Md Mahbubur Rahman Siam, Saw Barnabas Thadoe Htoo
 Date................: 2026.09.09
 GitHub Repo.............: https://github.com/NETtlSimrox/MathTutorV1.git
-Description.............. An easy math tutor for young children. In version 1, It displays*/
+Description.............. A math game designed for children to learn basic addition.
+                          The program will ask the user to input their name and then
+                          present them with a simple addition problem, accepts an answer,
+                          and displays a program ending message.
+*****************************************************************************************/
 #include <iostream>
 using namespace std;
 
@@ -26,7 +30,7 @@ int main() {
     cout << "Welcome to the Silly Simply Math Tutor V1!" << endl ;
     cout << "_________________________________________________" << endl;
 
-    cout << "Please under your name: ";
+    cout << "Please enter your name: ";
     cin >> userName;
     cout << "Welcome " << userName << "!" << endl;
 
@@ -39,7 +43,7 @@ int main() {
     cin >> answer;
 
     cout << "We will tell you the correct answer on our MathTutor Vers. II" << endl;
-    cout << "Stay Turn!" << endl;
+    cout << "Stay Tuned!" << endl;
     cout << R"(
  ____ _                 _
 |_  _| |__   __ _ _ __ | | __  _   _  ___  _   _
@@ -48,4 +52,4 @@ int main() {
  |_| |_| |_|\__,_|_| |_|_|\_\  \__, |\___/ \__,_|
                                |___/             )" << endl;
     return 0;
-}               
+}
