@@ -30,7 +30,7 @@ int main() {
     cout << "Welcome to the Silly Simply Math Tutor V1!" << endl ;
     cout << "_________________________________________________" << endl;
 
-    cout << "Identify yourself ,Sir ! xd "<< endl;
+    cout << "Identify yourself ,Sir ! xd ";
     cin >> userName;
     cout << "Welcome " << userName << "!" << endl;
 
