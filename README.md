@@ -22,11 +22,11 @@ This is a Silly Simple Math Tutor for young children.
 
 
 ## New Concepts Used
-- proper documentation
-- proper code indentation
-- declaring & initalizing variables
-- cin & cout
-- user-friendly interface
+- Proper documentation
+- Proper code indentation
+- Declaring & initalizing variables
+- Using cin & cout
+- User-friendly interface
 
 
 ## Console Output Testing Example
