@@ -17,7 +17,7 @@ This is a Silly Simple Math Tutor for young children.
 
 
 ## Maintainers
-[@/NETtlSimrox](https://github.com//NETtlSimrox) Md Mahbubur Rahman Siam
+[@/NETtlSimrox](https://github.com//NETtlSimrox) Md Mahbubur Rahman Siam  
 [@BarnabasHtoo](https://github.com/BarnabasHtoo) Saw Barnabas Thadoe Htoo
 
 
