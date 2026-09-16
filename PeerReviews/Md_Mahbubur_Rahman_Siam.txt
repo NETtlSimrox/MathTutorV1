@@ -1,0 +1,12 @@
+CSC150 Peer Review – Saw Barnabas Thadoe Htoo
+Your Name: 	   Md Mahbubur Rahman Siam
+Teammate Name: 	Saw Barnabas Thadoe Htoo
+Assignment: 		Math Tutor V1
+
+Barnabas was very serious about this assignment from the beginning. 
+He did almost all of the coding and he is really good at knowing what he is doing. 
+He was actively communicating with me both in class and outside of class, and I felt like I was a little behind with communication.
+I mainly worked on the documentation, GitHub, and some debugging, while he handled most of the rest.
+Overall, it was really nice working with him, and I’m looking forward to working with him more!
+
+

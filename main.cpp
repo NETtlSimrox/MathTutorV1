@@ -34,7 +34,7 @@ int main() {
     cin >> userName;
     cout << "Welcome " << userName << "!" << endl;
 
-    cout << "Are you ready to guess the answer?" << endl;
+    cout << "Are you ready to guess the answer, Sir?" << endl;
     cin >> statement_i;
 
     cout << "Here we go!" << endl;
