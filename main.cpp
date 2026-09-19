@@ -14,6 +14,7 @@ using namespace std;
 int main() {
     string userName = "unknown";
     string statement_i;
+    string statement_ii;
     int firstNum = 2;
     int secondNum = 3;
     int userAns;
@@ -32,10 +33,12 @@ int main() {
 
     cout << "Identify yourself ,Sir: ";
     cin >> userName;
-    cout << "Welcome " << userName << "!" << endl;
-
-    cout << "Are you ready to guess the answer, Sir?" << endl;
+    cout << "Welcome " << userName << "!" << " Do you know what the calculator says to the student?" << endl;
     cin >> statement_i;
+
+    cout << "It says you can always count on me." << endl;
+    cout << "Are you ready to guess the answer, Sir?" << endl;
+    cin >> statement_ii;
 
     cout << "Here we go!" << endl;
     cout << firstNum << " + " << secondNum << " = " << "?" << endl;
@@ -53,3 +56,4 @@ int main() {
                                |___/             )" << endl;
     return 0;
 }
+
