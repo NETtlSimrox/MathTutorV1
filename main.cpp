@@ -38,7 +38,14 @@ int main() {
     cout << "Welcome to the Silly Simply Math Tutor V1!" << endl ;
     cout << "_________________________________________________" << endl;
 
-    cout << "Identify yourself ,Sir: ";
+    cout << R"(
+Here is the fun facts before we continue!!
+- Numbers can be Funny
+- Did you know Math is everywhere around you, even in jokes and games
+- Spending just 10 minutes a day solving Math problems )" << endl;
+    cout << "_________________________________________________" << endl;
+
+    cout << "Now can you please identify yourself ,Sir: ";
     cin >> userName;
     cout << "Welcome " << userName << "!" << " Do you know what the calculator says to the student?" << endl;
     cin >> statement_i;
