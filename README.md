@@ -37,24 +37,23 @@ This is a Silly Simple Math Tutor for young children.
 
 ## Console Output Testing Example
 ```
- __  __       _   _       _____      _ 
-|  \/  | __ _| |_| |__   |_   _|   _| |_ ___  _ __ 
-| |\/| |/ _` | __| '_ \    | || | | | __/ _ \| '__|
-| |  | | (_| | |_| | | |   | || |_| | || (_) | |   
-|_|  |_|\__,_|\__|_| |_|   |_| \__,_|\__\___/|_|   
+ __  __        _   _       _____      _ 
+ |  \/  | __ _| |_| |__   |_   _|   _| |_ ___  _ __ 
+ | |\/| |/ _` | __| '_ \    | || | | | __/ _ \| '__|
+ | |  | | (_| | |_| | | |   | || |_| | || (_) | |   
+ |_|  |_|\__,_|\__|_| |_|   |_| \__,_|\__\___/|_|   
 _________________________________________________
 Welcome to the Silly Simply Math Tutor V1!
 _________________________________________________
-Identify yourself ,Sir: Siam
-Welcome Siam! 
-Do you know what the calculator says to the student?
+I am tired of always finding 'x', so let's make this easy! Who is the math wizard playing today? Siam
+Welcome Siam! Do you know what the calculator says to the student?
 No
 It says you can always count on me.
-Are you ready to guess the answer?
-Yes
+Why was the math book sad? Because it had too many problems! Type 'yes' to cheer it up and solve one: 
+yes
 Here we go!
 2 + 3 = ?
-Please type the answer below!
+What did the zero say to the eight? 'Nice belt!' Now buckle up and enter your answer here: 
 5
 We will tell you the correct answer on our MathTutor Vers. II
 Stay Tuned!
@@ -66,8 +65,3 @@ Stay Tuned!
  |_| |_| |_|\__,_|_| |_|_|\_\  \__, |\___/ \__,_|
                                |___/
 
-
-
-```
-
-[Back to Top](#math-tutor-v1)
