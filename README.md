@@ -2,6 +2,7 @@
 
 <b>Table of Content</b>
 - [Summary](#summary)
+- [Fun Math Facts](#Fun-Math-Facts)
 - [Maintainers](#maintainers)
 - [New Concepts Used](#new-concepts-used)
 - [Console Output Example](#console-output-example)
@@ -15,6 +16,11 @@ This is a Silly Simple Math Tutor for young children.
 - Gets the user's answer
 - Says goodbye to the user 
 
+## Fun Math Facts
+
+- Numbers can be Funny
+- Did you know Math is everywhere around you, even in jokes and games
+- Spending just 10 minutes a day solving Math problems keeps your brain sharp
 
 ## Maintainers
 [@/NETtlSimrox](https://github.com//NETtlSimrox) Md Mahbubur Rahman Siam  
@@ -40,7 +46,10 @@ _________________________________________________
 Welcome to the Silly Simply Math Tutor V1!
 _________________________________________________
 Identify yourself ,Sir: Siam
-Welcome Siam!
+Welcome Siam! 
+Do you know what the calculator says to the student?
+No
+It says you can always count on me.
 Are you ready to guess the answer?
 Yes
 Here we go!

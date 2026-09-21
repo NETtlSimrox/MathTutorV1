@@ -8,12 +8,20 @@ Description.............. A math game designed for children to learn basic addit
                           present them with a simple addition problem, accepts an answer,
                           and displays a program ending message.
 *****************************************************************************************/
+/************************************************************
+Fun Math Facts
+
+- Numbers can be Funny
+- Did you know Math is everywhere around you, even in jokes and games
+- Spending just 10 minutes a day solving Math problems keeps your brain sharp
+******************************************************************/
 #include <iostream>
 using namespace std;
 
 int main() {
     string userName = "unknown";
     string statement_i;
+    string statement_ii;
     int firstNum = 2;
     int secondNum = 3;
     int userAns;
@@ -30,12 +38,14 @@ int main() {
     cout << "Welcome to the Silly Simply Math Tutor V1!" << endl ;
     cout << "_________________________________________________" << endl;
 
-    cout << "Identify yourself ,Sir ! xd ";
+    cout << "Identify yourself ,Sir: ";
     cin >> userName;
-    cout << "Welcome " << userName << "!" << endl;
-
-    cout << "Are you ready to guess the answer, Sir?" << endl;
+    cout << "Welcome " << userName << "!" << " Do you know what the calculator says to the student?" << endl;
     cin >> statement_i;
+
+    cout << "It says you can always count on me." << endl;
+    cout << "Are you ready to guess the answer, Sir?" << endl;
+    cin >> statement_ii;
 
     cout << "Here we go!" << endl;
     cout << firstNum << " + " << secondNum << " = " << "?" << endl;
