@@ -24,7 +24,6 @@ int main() {
     string statement_ii;
     int firstNum = 2;
     int secondNum = 3;
-    int userAns;
     int answer = 5;
 
 
