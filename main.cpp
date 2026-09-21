@@ -38,19 +38,17 @@ int main() {
     cout << "Welcome to the Silly Simply Math Tutor V1!" << endl ;
     cout << "_________________________________________________" << endl;
 
-    cout << "Identify yourself ,Sir: ";
+    cout << "I am tired of always finding 'x', so let's make this easy! Who is the math wizard playing today? ";
     cin >> userName;
     cout << "Welcome " << userName << "!" << " Do you know what the calculator says to the student?" << endl;
     cin >> statement_i;
-
     cout << "It says you can always count on me." << endl;
-    cout << "Are you ready to guess the answer, Sir?" << endl;
+    cout << "Why was the math book sad? Because it had too many problems! Type 'yes' to cheer it up and solve one: " << endl;
     cin >> statement_ii;
-
     cout << "Here we go!" << endl;
     cout << firstNum << " + " << secondNum << " = " << "?" << endl;
-    cout << "Please type the answer below!" << endl;
-    cin >> answer;
+    cout << "What did the zero say to the eight? 'Nice belt!' Now buckle up and enter your answer here: " << endl;
+    cin >> userAns;
 
     cout << "We will tell you the correct answer on our MathTutor Vers. II" << endl;
     cout << "Stay Tuned!" << endl;
